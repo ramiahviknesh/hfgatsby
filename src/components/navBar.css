@@ -1,0 +1,27 @@
+.navbar{
+  background-color: rebeccapurple;
+  margin-bottom:30px;
+}
+.brand {
+  float: left;
+}
+.nav-list {
+   padding:0;
+   margin:0;
+   list-style: none;
+   float: right;
+}
+.nav-list li{
+  display: inline-block;
+  padding: 5px 10px;
+  margin-bottom: 0;
+  color:#fff;
+}
+
+.nav-list li a {
+  color: white;
+  text-decoration: none;
+}
+.nav-list li a:hover {
+  cursor: pointer;
+}
